@@ -18,14 +18,11 @@ type SocialValue = {
 }
 
 const social: Social = {
-  github: 'https://github.com/kuizuo',
-  x: 'https://twitter.com/kuizuo',
+  github: 'https://github.com/sonny-zhang',
+  x: 'https://twitter.com/sonnyzhang80',
   juejin: 'https://juejin.cn/user/1565318510545901',
-  wx: 'https://img.kuizuo.cn/wechat.png',
-  // qq: 'https://img.kuizuo.cn/qq.png',
-  // zhihu: 'https://www.zhihu.com/people/kuizuo',
-  cloudmusic: 'https://music.163.com/#/user/home?id=1333010742',
-  email: 'mailto:hi@kuizuo.cn',
+  wx: 'http://slrm4do5f.hn-bkt.clouddn.com/wechat.JPG',
+  email: 'sonny.zhang80@gmail.com',
   discord: 'https://discord.gg/M8cVcjDxkz',
 }
 
